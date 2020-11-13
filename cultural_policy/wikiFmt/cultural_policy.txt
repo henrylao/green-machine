@@ -1,12 +1,12 @@
 ## **Core Value**
 #### SUSTAINABILITY
-We have a long-term goal of CO2 reduction. Green Tech has set a target for 2050 of reducing new car CO2 emissions by 90%, compared to year 2000 levels. Green Machine is committed achieving this mid-term goal
+We have a long-term goal of CO2 reduction. Green Tech has set a target for 2050 of reducing new-car CO2 emissions by 90%, compared to the year 2000 levels. Green Machine is committed to achieving this mid-term goal
 #### RESPONSIBILITY
 We make consistent decisions and commit to them personally. This allows us to work freely and more effectively.
 #### APPRECIATION
-We reflect on our actions, respect each other, offer clear feedback and celebrate success.
+We reflect on our actions, respect each other, offer clear feedback, and celebrate success.
 #### TRANSPARENCY
-We acknowledge concern and identify inconsistencies in a constructive way. We act with integrity.
+We acknowledge the concern and identify inconsistencies in a constructive way. We act with integrity.
 #### TRUST
 We trust and rely on each other. This is essential if we are to act swiftly and achieve our goals.
 #### OPENNESS
@@ -19,11 +19,12 @@ Diversity is the engine of our success – today and in the future – because a
 #### FLEXIBILITY
 In order to benefit from the strengths and experience of employees of different ages, we have extensive programmes for flexible and mobile working.
 #### INNOVATIVE
-// insert content
+Innovation gets our company to contribute to the support of the global economy and the environment by constantly creating various ideas and plans.
 #### AGILE
-// insert content
+{insert company} immediately responds to a sign of effects in the environment by making plans on how to reduce incoming negative effects.
 #### COMMUNITY
-// insert content
+{insert company} works as a community, using each members’ motivations to make the future of the planet brighter together.
+
 
 
 ## **Summary**
@@ -32,3 +33,5 @@ In order to benefit from the strengths and experience of employees of different 
 #### INNOVATIVE
 #### AGILE
 #### COMMUNITY
+
+

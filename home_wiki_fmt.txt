@@ -1,0 +1,23 @@
+## Dallas T. Hall 
+
+Dallas Hall is a registered student at CSU East Bay who is currently pursuing his bachelor’s degree in Computer Science. He has served active duty in the United States Coast Guard flying search and rescue for 5 years since he was unsure of what he wanted to study in college. He found passion in Computer Science when his brother, a Computer Science Ph.D. student at the University of Oregon, began to teach him basic programming. In his spare time, he likes to play guitar and video games and plans to use this degree combined with his A&P plant certification to work in advancing aerospace technologies. 
+
+![alt text](https://i.ibb.co/YRX1dD0/Germany-croppppedd.jpg)
+
+
+## Henry Lao
+
+Henry Lao currently serves as the Project Manager and is the Lead of Ethics Policy for Project Green Machine. Mr. Lao handles project work sequencing, manages project status, and provides insurance of on-time project deliverables. Henry is a 3rd year student studying Computer Science and Statistics at California State University East Bay(CSUEB) with the primary interest of solving complex problems using Machine Learning. Java, Python and C++ are the primary languages that constitute his programming background. He is an active participant in CSUEB's Data Science Club's commitment to developing data skills, demystifying topics as well as tools to provide a platform for learning Data Science.
+
+![alt text](https://github.com/henrylao/green-machine/blob/master/business_plan/bioPics/henry_fmt.jpg)
+
+## Megen Jen 
+Megan Jen is a registered student at CSU East Bay who is currently pursuing a degree from the Computer Science program. She has taken several Computer Science courses back in her high schools such as Principles of Engineering and Web Design, and she plans to have a career as a software engineer. She likes to read books, listen to a variety of music which includes techno music and rap, and play video games in her spare time. 
+
+![alt text](https://github.com/henrylao/green-machine/blob/master/business_plan/bioPics/megan-updated.jpg)
+
+## Sean Cruz
+
+Sean Cruz is a transfer student at CSU East Bay who transferred from College Of San Mateo at the end of Spring 2020. He is currently pursuing a degree in Computer Science. He loves to listen to a variety of music which includes old school and underground hip-hop, trance, techno, house and synthwave. He also loves to play video games in his spare time be in game consoles or on mobile. From July 2017 to September 2018, he has worked at Century 12 Theatre as a concessionist and an usher. He plans to have a career as a game programmer.
+
+![alt text](https://github.com/henrylao/green-machine/blob/master/business_plan/bioPics/sean_fmt.jpg)
