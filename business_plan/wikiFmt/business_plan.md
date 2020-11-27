@@ -1,4 +1,4 @@
-# Green Mean Machine Motor Company
+# Green Machine
 *#Readytogoanytimeanywhere*
 
 # Long Term Vision Statement:
@@ -73,10 +73,8 @@ The Green Machine Motor Company plans to first and foremost patent its revolutio
 	* Standard Plus: $35,000
 	* Extended Range: $43,000
 	* Performance: $55,000
-	<br><br>
 * Starting Revenue: $1,750,000  
 	* 50 base models sold
-<br>
 
 ### Year 1
 * 20% growth from starting revenue
