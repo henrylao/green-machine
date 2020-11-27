@@ -29,24 +29,82 @@ The only impact environmentally from the car itself will be the battery. In a st
 The Green Machine Motor Company plans to first and foremost patent its revolutionary solar panel design. Once we have this new technology patented, our company will be leading in the distance to charge ratio, making it the most environmentally friendly car.
 
 
-## External Opportunities That Exist:
-Sun Power
+# External Opportunities That Exist:
+## Sun Power
 * development and deployment of a solar energy plant
 * the solar energy plant would be used for offsetting costs of electricity during manufacturing
 
-Google
+## Google
 * promotion for google
 * entertainment system integration
 * audio system integration
 * car dial display application
 
-CommaAi
+## CommaAi
 * offer autonomous driving
 * to be competitive with other companies that offer autonomous driving features:
-> - Ford: Argo<br>
-> - Tesla: Autopilot  <br>
-> - General Motors: Cruise <br>
+	* Ford: Argo<br>
+	* Tesla: Autopilot  <br>
+	* General Motors: Cruise <br>
 * help grow commaai dataset
 
 
-## Strategy: need at least 3-5 OKRs
+# Strategy:
+
+## Implement Agile project management across engineering organisation
+* All the projects within engineering department are fully agile before end of quarter
+* External agile coaches are hired, 1 coach for every 2.5 projects
+* Tweaks, deployment parameters for agile are agreed upon, documen	ted with all project managers & COO
+
+## Create a high performing engineering team:
+* Hire 10 new engineers by the end of Q2 2021
+* Agree and document performance measurement metrics for individual contributions
+* Increase knowledge & enhance skill sets of team members by ensuring each member participates in at least one industry-wide hackathon
+
+
+## Develop and deploy android car console:
+* Complete android OS skin by 2022 Q4
+* Integrate vehicle statistics application
+* Less than 2 major priority bugs found in production
+* Software development team contribute 500 code reviews by the end of every sprint
+
+## Double revenue over the course of 5 years
+* Available Models:
+	* Standard Plus: $35,000
+	* Extended Range: $43,000
+	* Performance: $55,000
+	<br><br>
+* Starting Revenue: $1,750,000  
+	* 50 base models sold
+<br>
+
+### Year 1
+* 20% growth from starting revenue
+* Target Revenue: $2,100,000
+* Sell 60 base model cars
+
+### Year 2
+* 40% growth from starting revenue
+* Target Revenue: $2,450,000
+* Sell 70 base model cars
+
+### Year 3
+* 60% growth from starting revenue
+* Target Revenue: $2,800.000
+* Sell 80 base model cars
+
+### Year 4
+* 80% growth from starting revenue
+* Target Revenue: $3,150,000
+* Sell 90 base model cars
+
+### Year 5
+* 100% growth from starting revenue
+* Target Revenue: $3,500,000
+* Sell 100 base model cars
+
+## Marketting and Generate 100 leads annually:
+* Create at least 60 twitter posts as a form of promotion
+* Create at least 25 Youtube videos as a form of marketing
+* Perform at least 25 test drives
+* Survey each potential client after test drive experience inquiring how they found the company (Youtube, Twitter, Facebook ad, etc)
